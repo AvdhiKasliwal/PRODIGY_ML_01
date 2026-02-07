@@ -61,6 +61,19 @@ This task is completed as part of the **Machine Learning Internship** at Prodigy
 
 ### ▶️ How to Run the Project
 
-```bash
-pip install -r requirements.txt
-jupyter notebook house_price_prediction.ipynb
+This project was implemented using Google Colab.
+Steps to run:
+
+Open the notebook file house_price_prediction.ipynb in Google Colab
+
+Upload the dataset file train.csv when prompted (or keep it in the same directory)
+
+Run all cells sequentially to train the model and view results
+
+Alternatively, you can open the notebook directly from GitHub using Colab:
+
+Open Google Colab
+
+Click File → Open notebook → GitHub
+
+Paste the repository link and select house_price_prediction.ipynb
